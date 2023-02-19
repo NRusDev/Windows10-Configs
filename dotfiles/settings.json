@@ -1,0 +1,37 @@
+{
+    "workbench.colorTheme": "Night Red",
+    "files.autoSave": "afterDelay",
+    "security.workspace.trust.untrustedFiles": "open",
+    "workbench.startupEditor": "none",
+    "workbench.iconTheme": "sweet-vscode-icons",
+    "vscode-blur-linux.opacity": 7,
+    "workbench.colorCustomizations": {
+    
+
+    "[Night Red]": {
+        "terminal.foreground": "#ff0000",
+        "terminal.background": "#121111",
+        "menubar.selectionBackground": "#5a0606",
+        "titleBar.activeBackground": "#000000",
+        "sideBar.background": "#000000",
+        "sideBar.foreground": "#ff0000",
+        "statusBar.background": "#000000",
+        "editor.background": "#121111"
+
+    },
+    "[Sweet vscode]": {
+        "menu.foreground": "#ffffff",
+        "menubar.selectionBackground": "#db0ce6",
+    }
+    },
+    "window.titleBarStyle": "custom",
+    "editor.stickyScroll.enabled": true,
+    "editor.tokenColorCustomizations": {
+        "comments": "#958d8d",
+        "strings": "#c97b0f"
+    },
+    "glassit.alpha": 200,
+    "terminal.integrated.cursorStyle": "underline",
+    "terminal.integrated.cursorBlinking": true,
+    "vsicons.dontShowNewVersionMessage": true
+}
